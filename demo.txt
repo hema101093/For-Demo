@@ -3,4 +3,4 @@ This is for learning purpose
 Learnt few things
 
 echo "Hello World"
-Learny about Git
+Learnt about Git
